@@ -1,3 +1,4 @@
+/* Change selectors of old Divs to new HTML elements */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -135,7 +136,7 @@ p {
     max-width: 150px;
 }
 
-section{
+section #content{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -153,7 +154,7 @@ section{
     color: #ffffff;
 }
 
-section{
+section aside{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -189,6 +190,6 @@ footer{
     text-align: center;
 }
 
-.footer h4{
+.footer {
     font-size: 20px;
 }
