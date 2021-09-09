@@ -6,6 +6,11 @@ The objective of this project was to evaluate the code at hand with the intentio
 
 ## Screenshots
 
-![alt text](assets/images/screenshothw1.png assests/images/screenshothw2.png)
+![alt text](assets/images/screenshothw1.png)
+
+![alt text](assets/images/screenshotpt2.png)
+
+https://github.com/matt-cross23/refractoring-html-project
+
 
 
