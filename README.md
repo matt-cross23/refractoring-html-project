@@ -9,7 +9,7 @@ The objective of this project was to evaluate code given with the intention of i
 
 ![alt text](assets/images/screenshotpt2.png)
 
-https://github.com/matt-cross23/refractoring-html-project
+https://matt-cross23.github.io/refractoring-html-project/index.html
 
 
 
